@@ -51,6 +51,23 @@ This repository serves as a professional touchpoint for academic coordinators an
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=SHALINI%20ANAND&fontSize=50&animation=fadeIn&fontAlignY=60" width="600" />
+
+  <br>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=4A90E2&center=true&vCenter=true&width=400&lines=Engineering+Student+🚀;Thanks+for+visiting!+✨" alt="Typing Text" />
+  </p>
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=AND-SHAL-0813&label=VIEWS&color=4A90E2&style=flat-square" />
+
+  <br>
+  <br>
+  
+  <sub>Developed with ❤️ by Shalini Anand</sub>
+</div>
+
