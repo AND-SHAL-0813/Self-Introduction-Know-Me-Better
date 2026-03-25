@@ -12,13 +12,13 @@
 ### 🎬 Watch My Introduction
 Click the player below to view my professional background and aspirations.
 
-<a href="YOUR_VIDEO_LINK_HERE">
+<a href="https://drive.google.com/file/d/1VcFrH65-3Qrx5Kru8yXWDamzSyWKj76H/view?usp=sharing">
   <img src="https://img.shields.io/badge/PLAY%20VIDEO-000000?style=for-the-badge&logo=youtube&logoColor=red" height="45">
 </a>
 
 <br>
 
-<a href="YOUR_VIDEO_LINK_HERE">
+<a href="https://drive.google.com/file/d/1VcFrH65-3Qrx5Kru8yXWDamzSyWKj76H/view?usp=sharing">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="0" height="0"/><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=▶️%20Play%20Introduction&fontSize=40&animation=fadeIn" width="600" />
 </a>
 
